@@ -18,6 +18,16 @@ Requirements:
 * g++
 
 
+Install Dependencies:
+-------------
+
+    sudo apt-get install cmake
+    sudo apt-get install git
+    sudo apt-get install libusb-dev
+    sudo apt-get install libboost-all-dev
+    sudo apt-get install g++
+
+
 Compilation:
 ------------
 
